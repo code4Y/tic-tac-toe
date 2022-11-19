@@ -1,2 +1,13 @@
-# tic-tac-toe
-Tic tac toe a little fun game created in JavaScript with an elegant modern design! 
+# Tic Tac Toe
+
+<p align="center">
+   <img src="https://github.com/code4Y/tic-tac-toe/blob/main/images/tic-tac-toe.png" width="250" height="250">
+</p>
+
+A fun little game created in JavaScript with an elegant modern design! 
+
+### Output of Tic Tac Toe game :smiley:
+
+<p align="center">
+   <img src="https://github.com/code4Y/tic-tac-toe/blob/main/images/screenshot.PNG">
+</p>
